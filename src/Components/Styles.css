@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.tarjets{
+    border: 3px black solid;
+    margin: 20px; 
+}
+
+.tarjets h1{
+    font-size: 30px;
+}
+
+.tarjets p{
+    margin: 5px;
+    padding: 0;
+}
+
+.letter-white{
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.first-button{
+    margin-top: 40px;
+}
